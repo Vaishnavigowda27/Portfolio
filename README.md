@@ -43,4 +43,3 @@ This portfolio can be deployed to:
 - Tailwind CSS
 - Framer Motion
 
-Generated with ❤️ by Portcraft
